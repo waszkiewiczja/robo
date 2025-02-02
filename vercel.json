@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/panda", "destination": "/panda.html" }
+  ]
+}
