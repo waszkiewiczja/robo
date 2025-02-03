@@ -32,6 +32,15 @@ section {
     color: black;
 }
 
+.content__gift {
+    display: flex;
+    width: 60%;
+    height: 100%;
+    text-align: justify;
+    gap: 1rem;
+    margin: auto;
+}
+
 .offer {
     display: grid;
     grid-template-columns: 1fr;
