@@ -2,6 +2,22 @@
   "rewrites": [
     { "source": "/panda", "destination": "/panda.html" },
     { "source": "/pandagift", "destination": "/pandagift.html" },
-    { "source": "/pandareview", "destination": "/pandareview.html" }
+    { "source": "/pandareview", "destination": "/pandareview.html" },
+    { "source": "/elephant", "destination": "/elephant.html" },
+    { "source": "/elephantgift", "destination": "/elephantgift.html" },
+    { "source": "/elephantreview", "destination": "/elephantreview.html" },
+    { "source": "/squirrel", "destination": "/squirrel.html" },
+    { "source": "/squirrelgift", "destination": "/squirrelgift.html" },
+    { "source": "/squirrelreview", "destination": "/squirrelreview.html" },
+    { "source": "/penguin", "destination": "/penguin.html" },
+    { "source": "/penguingift", "destination": "/penguingift.html" },
+    { "source": "/penguinreview", "destination": "/penguinreview.html" }
+  ],
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://robobooks.vercel.app/",
+      "statusCode": 301
+    }
   ]
 }
