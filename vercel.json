@@ -1,5 +1,6 @@
 {
   "rewrites": [
+    { "source": "/gift", "destination": "/gift.html" },
     { "source": "/panda", "destination": "/panda.html" },
     { "source": "/pandagift", "destination": "/pandagift.html" },
     { "source": "/pandareview", "destination": "/pandareview.html" },
