@@ -109,7 +109,10 @@
     { "source": "/formenreview", "destination": "/formenreview.html" },
     { "source": "/landscape", "destination": "/landscape.html" },
     { "source": "/landscapegift", "destination": "/landscapegift.html" },
-    { "source": "/landscapereview", "destination": "/landscapereview.html" }
+    { "source": "/landscapereview", "destination": "/landscapereview.html" },
+    { "source": "/warriors", "destination": "/warriors.html" },
+    { "source": "/warriorsgift", "destination": "/warriorsgift.html" },
+    { "source": "/warriorsreview", "destination": "/warriorsreview.html" }
   ]
   
 }
