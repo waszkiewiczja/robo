@@ -98,6 +98,7 @@
     { "source": "/castles", "destination": "/castles.html" },
     { "source": "/castlesgift", "destination": "/castlesgift.html" },
     { "source": "/castlesreview", "destination": "/castlesreview.html" },
+    { "source": "/monster", "destination": "/monster.html" },
     { "source": "/monstertruck", "destination": "/monstertruck.html" },
     { "source": "/monstertruckgift", "destination": "/monstertruckgift.html" },
     { "source": "/monstertruckreview", "destination": "/monstertruckreview.html" },
