@@ -116,6 +116,7 @@
     { "source": "/warriorsreview", "destination": "/warriorsreview.html" },
     { "source": "/uk/cars", "destination": "/uk/cars.html" },
     { "source": "/uk/trucks", "destination": "/uk/trucks.html" },
+    { "source": "/uk/lorries", "destination": "/uk/lorries.html" },
     { "source": "/uk/monster", "destination": "/uk/monster.html" },
     { "source": "/uk/dinosaur", "destination": "/uk/dinosaur.html" }
   ]
