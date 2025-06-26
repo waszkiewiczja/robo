@@ -136,6 +136,7 @@
     { "source": "/de/fur-jungen", "destination": "/de/fur-jungen.html" },
     { "source": "/nl", "destination": "/nl.html" },
     { "source": "/uk", "destination": "/uk.html" },
+    { "source": "/uk/author", "destination": "/uk/author.html" },
     { "source": "/uk/cars", "destination": "/uk/cars.html" },
     { "source": "/uk/trucks", "destination": "/uk/trucks.html" },
     { "source": "/uk/lorries", "destination": "/uk/lorries.html" },
