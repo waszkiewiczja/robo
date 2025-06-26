@@ -140,7 +140,8 @@
     { "source": "/uk/trucks", "destination": "/uk/trucks.html" },
     { "source": "/uk/lorries", "destination": "/uk/lorries.html" },
     { "source": "/uk/monster", "destination": "/uk/monster.html" },
-    { "source": "/uk/dinosaur", "destination": "/uk/dinosaur.html" }
+    { "source": "/uk/dinosaur", "destination": "/uk/dinosaur.html" },
+    { "source": "/uk/for-boys", "destination": "/uk/for-boys.html" }
   ]
   
 }
