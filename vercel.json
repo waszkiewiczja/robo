@@ -114,6 +114,7 @@
     { "source": "/warriors", "destination": "/warriors.html" },
     { "source": "/warriorsgift", "destination": "/warriorsgift.html" },
     { "source": "/warriorsreview", "destination": "/warriorsreview.html" }
+    { "source": "/uk/cars", "destination": "/uk/cars.html" }
   ]
   
 }
