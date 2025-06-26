@@ -125,7 +125,7 @@
     { "source": "/es/monster", "destination": "/es/monster.html" },
     { "source": "/es/para-ninos", "destination": "/es/para-ninos.html" },
     { "source": "/fr", "destination": "/fr.html" },
-    { "source": "/fr/voitues", "destination": "/fr/voitues.html" },
+    { "source": "/fr/voitures", "destination": "/fr/voitures.html" },
     { "source": "/fr/camions", "destination": "/fr/camions.html" },
     { "source": "/fr/monster", "destination": "/fr/monster.html" },
     { "source": "/fr/garcons", "destination": "/fr/garcons.html" },
